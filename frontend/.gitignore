@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Model artifacts
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# React
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
