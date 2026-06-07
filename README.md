@@ -165,7 +165,7 @@ Detected indicators:
 
 
 ---
-gt
+
 ## Screenshots
 
 ### Dashboard
