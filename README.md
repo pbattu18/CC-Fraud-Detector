@@ -141,10 +141,10 @@ Transaction:
 {
   "amount": 950,
   "amount_vs_avg": 8.5,
-  "hour": 2,
+  "hour": 13,
   "is_new_country": 1,
   "impossible_travel": 1,
-  "merchant_category": "electronics"
+  "merchant_category": "gas"
 }
 ```
 
@@ -153,7 +153,7 @@ Result:
 ```json
 {
   "prediction": "Fraud",
-  "risk_score": 78.67
+  "risk_score": 62.67
 }
 ```
 
