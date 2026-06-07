@@ -183,7 +183,7 @@ gt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CC-Fraud-Detector.git
+git clone https://github.com/pbattu18/CC-Fraud-Detector.git
 cd CC-Fraud-Detector
 ```
 
