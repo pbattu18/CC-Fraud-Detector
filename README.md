@@ -162,8 +162,7 @@ Detected indicators:
 - Impossible travel
 - New country transaction
 - Abnormal spending amount
-- High-risk merchant category
-- Unusual purchase time
+
 
 ---
 gt
